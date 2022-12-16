@@ -1,4 +1,4 @@
-Hi visitor 👀, I'm @joyanedel, a enthutiastic software developer from Chile 🇨🇱
+Hi visitor 👀, I'm @joyanedel, a enthusiastic software developer from Chile 🇨🇱
 I'm capable to learn new techs in a remarkable time while getting the best practices from it
 
 My interests are:
