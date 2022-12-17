@@ -8,7 +8,7 @@ My interests are:
 * Mobile Dev with Dart and Flutter
 
 I got experience in:
-* Python: FastAPI, Django, DRM, TF, Torch, Sklearn
+* Python: FastAPI, Django, DRF, TF, Torch, Sklearn
 * Javascript: NodeJS, React, Express, Redux
 * Golang: gRPC
 * Dart: Flutter
@@ -16,7 +16,7 @@ I got experience in:
 * C/C++: Data Structures
 * Databases:
   * SQL: PostgreSQL, MySQL
-  * Column-Bases: Cassandra👈
+  * Column-Based: Cassandra👈
   * Document-Based: MongoDB
   * Graph-Oriented: Neo4J
 * Message Queue: RabbitMQ
