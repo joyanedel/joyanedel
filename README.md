@@ -29,7 +29,9 @@ My TODO List to Learn:
 * Apache Kafka
 * AWS: Code Pipeline, EKS, AuroraDB, DynamoDB, SNS
 
-You can reach me here 👉 iamjoyanedel@gmail.com 👈
+Get in touch 👉 iamjoyanedel@gmail.com 👈
+
+Checkout my portfolio clicking [here](https://joyanedel.github.io/portfolio/)
 
 <!---
 joyanedel/joyanedel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
