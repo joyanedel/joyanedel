@@ -17,11 +17,14 @@ I got experience in:
 * Databases:
   * SQL: PostgreSQL, MySQL
   * Column-Based: Cassandra👈
-  * Document-Based: MongoDB
+  * Document-Based: MongoDB, DynamoDB
   * Graph-Oriented: Neo4J
 * Message Queue: RabbitMQ
 
 I enjoy learning new languages paradigms to get the best of their worlds. Currently I'm learning Prolog for merely fun.
+
+I'm currently learning:
+* Rust Lang 🌟
 
 My TODO List to Learn:
 * Jenkins
