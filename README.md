@@ -2,26 +2,16 @@ Hi visitor 👀, I'm @joyanedel, a enthusiastic software developer from Chile �
 I'm capable to learn new techs in a remarkable time while getting the best practices from it
 
 My interests are:
-* 🌟🌟🌟 Backend Dev with Python, Javascript, Golang, and so on... 🌟🌟🌟
-* ML Engineering
-* Dev Ops
-* Mobile Dev with Dart and Flutter
+* Software Engineering
 
-I got experience in:
-* Python: FastAPI, Django, DRF, TF, Torch, Sklearn
-* Javascript: NodeJS, React, Express, Redux
-* Golang: gRPC
-* Dart: Flutter
-* AWS: EC2, Lambda, ECS, ECR, Fargate, VPC, CloudWatch, EventBridge, IAM
-* C/C++: Data Structures
+I've got experience in:
+* Python: FastAPI, Torch, AWS Lambda, AZ Functions
+* Javascript / Typescript: NodeJS, React
 * Databases:
-  * SQL: PostgreSQL, MySQL
-  * Column-Based: Cassandra👈
-  * Document-Based: MongoDB, DynamoDB
-  * Graph-Oriented: Neo4J
+  * SQL
+  * Document-Based
+  * Graph-Oriented
 * Message Queue: RabbitMQ
-
-I enjoy learning new languages paradigms to get the best of their worlds. Currently I'm learning Prolog for merely fun.
 
 I'm currently learning:
 * Rust Lang 🌟
@@ -30,7 +20,7 @@ My TODO List to Learn:
 * Jenkins
 * Redis
 * Apache Kafka
-* AWS: Code Pipeline, EKS, AuroraDB, DynamoDB, SNS
+* [Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
 Get in touch 👉 iamjoyanedel@gmail.com 👈
 
