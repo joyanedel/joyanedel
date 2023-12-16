@@ -1,5 +1,6 @@
-Hi visitor 👀, I'm @joyanedel, a enthusiastic software developer from Chile 🇨🇱
-I'm capable to learn new techs in a remarkable time while getting the best practices from it
+Entrepreneur, altruist, billionaire, gorgeous, sexy.
+
+I may not be on of those ⬆️ but the following can define what I do here:
 
 My interests are:
 * Software Engineering
