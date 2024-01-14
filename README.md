@@ -25,7 +25,7 @@ My TODO List to Learn:
 
 Get in touch 👉 iamjoyanedel@gmail.com 👈
 
-Checkout my portfolio clicking [here](https://joyanedel.github.io/portfolio/)
+Checkout my portfolio clicking [here](https://joyanedel.vercel.app/)
 
 <!---
 joyanedel/joyanedel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
