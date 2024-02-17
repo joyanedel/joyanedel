@@ -4,6 +4,7 @@ I may not be on of those ⬆️ but the following can define what I do here:
 
 My interests are:
 * Software Engineering
+* Machine Learning Engineering
 
 I've got experience in:
 * Python: FastAPI, Torch, AWS Lambda, AZ Functions
@@ -12,15 +13,13 @@ I've got experience in:
   * SQL
   * Document-Based
   * Graph-Oriented
-* Message Queue: RabbitMQ
+* Message Queues
 
 I'm currently learning:
-* Rust Lang 🌟
+* Machine Learning tools
 
 My TODO List to Learn:
-* Jenkins
 * Redis
-* Apache Kafka
 * [Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
 Get in touch 👉 iamjoyanedel@gmail.com 👈
