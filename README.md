@@ -17,6 +17,7 @@ I've got experience in:
 
 I'm currently learning:
 * Machine Learning tools
+* Machine Learning basis (again because I have academic background but I want to relearning it)
 
 My TODO List to Learn:
 * Redis
