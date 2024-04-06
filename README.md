@@ -16,8 +16,7 @@ I've got experience in:
 * Message Queues
 
 I'm currently learning:
-* Machine Learning tools
-* Machine Learning basis (again because I have academic background but I want to relearning it)
+* Rust lang
 
 My TODO List to Learn:
 * Redis
