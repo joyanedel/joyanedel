@@ -17,6 +17,7 @@ I've got experience in:
 
 I'm currently learning:
 * Rust lang
+* Solidity
 
 My TODO List to Learn:
 * Redis
