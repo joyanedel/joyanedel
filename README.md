@@ -1,4 +1,4 @@
-I'm advocating my whole career to Software Engineer, and aiming to become a great contributor to this beaatiful community.
+Chilean 🇨🇱 computer scientist with focus on Software Engineering aiming to become a great contributor to this beautiful community.
 
 I'm experienced in:
 * Backend and frontend.
